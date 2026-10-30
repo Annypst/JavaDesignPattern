@@ -5,14 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4809cfe1-697b-4384-bb66-bc1047d4cb21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/decorate/Bacon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/decorate/Egg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/decorate/FastFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/decorate/FriedNoodles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/decorate/FriedRice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/decorate/Garnish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/builder/demo1/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/builder/demo1/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/builder/demo1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/builder/demo1/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/builder/demo1/MobileBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/builder/demo1/OfoBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/command/18 命令模式.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/command/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/command/OrderCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/command/SeniorChef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/command/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/AmericanDessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/DessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/ItalyDessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/MatchaMousse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/abstract_factory/Tiramisu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/factory_method/AmercianCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/factory_method/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/factory_method/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/factory_method/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/factory_method/CoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/factory_method/CoffeeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/factory_method/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/factory_method/LatteCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/simple_factory/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/simple_factory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/simple_factory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/simple_factory/CoffeeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/simple_factory/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/factory/simple_factory/SimpleCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/iterator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/iterator/StudentAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/iterator/StudentAggregateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/iterator/StudentIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/iterator/StudentIteratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/obsrver/23 观察者模式.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/obsrver/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/obsrver/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/obsrver/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/obsrver/SubscriptionSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/obsrver/WeiXinUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/after/24 状态模式.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/after/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/after/ClosingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/after/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/after/LiftState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/after/OpeningState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/after/RunningState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/after/StoppingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/before/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/before/ILift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/state/before/Lift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/static_proxy/16 代理模式.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/static_proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/static_proxy/ProxyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/static_proxy/SellTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/static_proxy/TrainStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/strategy/25 策略模式.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/strategy/Salesman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/strategy/StrategyA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/strategy/StrategyB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/strategy/StrategyC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/decorate/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/decorate/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +88,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +109,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Client.executor": "Debug",
+    "Application.Client.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -52,7 +118,7 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/annypst/Annypst/develop/gitclone/java-design-pattern",
+    "last_opened_file_path": "C:/Users/Zhouh/Desktop/JavaDesignPattern/src/main/java/com/study/obsrver",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,21 +127,34 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\obsrver" />
+      <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\state\after" />
+      <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\command" />
+      <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\strategy" />
+      <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\factory\abstract_factory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\static_proxy" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.com.study.state.after" />
+      <recent name="main.java.com.study.strategy" />
+      <recent name="main.java.com.study.factory.factory_method" />
       <recent name="main.java.com.study.decorate" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
       </set>
     </attachedChunks>
   </component>
@@ -88,6 +167,8 @@
       <updated>1792509608706</updated>
       <workItem from="1792509610178" duration="2417000" />
       <workItem from="1792638235474" duration="5014000" />
+      <workItem from="1793019106849" duration="7933000" />
+      <workItem from="1793113427382" duration="19445000" />
     </task>
     <servers />
   </component>
