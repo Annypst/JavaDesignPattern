@@ -5,49 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4809cfe1-697b-4384-bb66-bc1047d4cb21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/10 适配器模式.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/class_adapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/class_adapter/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/class_adapter/SDAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/class_adapter/SDCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/class_adapter/SDCardImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/class_adapter/TFCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/class_adapter/TFCardImpI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/object_adapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/object_adapter/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/object_adapter/SDAdapterTF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/object_adapter/SDCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/object_adapter/SDCardImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/object_adapter/TFCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/adapter/object_adapter/TFCardImpI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/bridge/11 桥接模式.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/bridge/AviFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/bridge/Mac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/bridge/Mp4File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/bridge/OperatingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/bridge/VideoFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/bridge/Win.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/combination/12 组合模式 .pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/combination/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/combination/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/combination/MenuComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/combination/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/8 原型模式.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/Demo/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/Demo/Realizetype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/test/Citation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/test/CitationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/test1/Citation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/test1/CitationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/test1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/prototype/test1/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo1/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo2/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo3/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo3/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo4/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/singleton/demo5/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,39 +42,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CitationTest.executor": "Run",
-    "Application.Client.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Zhouh/Desktop/JavaDesignPattern/src/main/java/com/study/prototype",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CitationTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Zhouh/Desktop/JavaDesignPattern/src/main/java/com/study/singleton&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\singleton" />
       <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\prototype" />
       <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\prototype\test1" />
       <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\adapter\object_adapter" />
       <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\obsrver" />
-      <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\state\after" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zhouh\Desktop\JavaDesignPattern\src\main\java\com\study\adapter" />
@@ -147,7 +108,8 @@
       <workItem from="1792638235474" duration="5014000" />
       <workItem from="1793019106849" duration="7933000" />
       <workItem from="1793113427382" duration="20047000" />
-      <workItem from="1793614776194" duration="13864000" />
+      <workItem from="1793614776194" duration="21990000" />
+      <workItem from="1794487141727" duration="3196000" />
     </task>
     <servers />
   </component>
